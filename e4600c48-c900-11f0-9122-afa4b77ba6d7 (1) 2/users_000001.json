@@ -1,0 +1,32 @@
+[
+  {
+    "type": "user",
+    "url": "https://github.com/Kept0Rekt",
+    "avatar_url": "https://avatars.githubusercontent.com/u/167275235?v=4",
+    "login": "Kept0Rekt",
+    "name": null,
+    "bio": null,
+    "company": null,
+    "website": null,
+    "location": null,
+    "emails": [
+      {
+        "address": "raad.baynoka555@gmail.com",
+        "primary": true,
+        "verified": true
+      },
+      {
+        "address": "167275235+Kept0Rekt@users.noreply.github.com",
+        "primary": false,
+        "verified": true
+      }
+    ],
+    "social_accounts": [],
+    "billing_plan": {
+      "name": "free",
+      "space": 976562499,
+      "private_repos": 10000
+    },
+    "created_at": "2024-04-17T03:46:25Z"
+  }
+]
